@@ -1,0 +1,2 @@
+For the Branch_B, two bugs in both frondend and backend files were found related to deleting a single note.
+And the bugs are fixed.
