@@ -1,6 +1,6 @@
 Karl Zi: Served as scurm master and person 5&6.
 
-Yunlong Chen: Done person 3 and rebase the branch D to branch C
+Yunlong Chen (1006071643): Done person 3 and rebase the branch D to branch C
 
 Helen Liu (1006995762): performed as person A, completed cherrying picking.
 
