@@ -6,5 +6,5 @@ Helen Liu: performed as person A, completed cherrying picking.
 
 Kaiwen Niu (1005985043): Performed as Person 2, created Branch B and helped Branch A for cherry-picking; created ‘BranchB_Bug.txt’ under the ‘deliverables’ folder
 
-========================================
+
 Everyone worked on the git workflow
